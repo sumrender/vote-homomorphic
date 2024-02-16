@@ -1,0 +1,6 @@
+generate proof?
+
+
+change blockchain func
+- constructor
+- cast_vote

@@ -26,5 +26,3 @@ brownie run scripts/main.py
 The script executes a series of steps where participants' votes are encrypted, proofs are generated, and votes are submitted alongside stake amounts. The entire vote count is designed to be weighted based on these stake amounts. As each vote is cast, the homomorphically encrypted value within the smart contract is dynamically updated.
 
 The script further showcases how to extract the encrypted stake-weighted sum and decrypt it, thus unveiling the final results of the voting process.
-# vote-homomorphic
-# vote-homomorphic
